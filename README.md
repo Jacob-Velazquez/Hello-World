@@ -3,12 +3,12 @@ First Repository: This is a sample of a good README.md file that can be used whe
 
 ## Table of Contents
 
-[Project Title](#Project-Title)
-[DESCRIPTION](#Description)
-[TOOLS USED](#Tools-Used)
-[FILES USED](#Filed-Used)
-[HOW TO RUN THE PROGRAM](#How-To-Run-Program)
-[ADDITIONAL INFORMATION](#Additional-Information)
+[Project Title](#Project-Title)  
+[DESCRIPTION](#Description)  
+[TOOLS USED](#Tools-Used)  
+[FILES USED](#Filed-Used)  
+[HOW TO RUN THE PROGRAM](#How-To-Run-Program)  
+[ADDITIONAL INFORMATION](#Additional-Information)  
 
 ## Project Title
 
